@@ -1,4 +1,5 @@
-# Claude with MCP - MCPサーバー設定付きClaude起動スクリプト
+# Claude with MCP
+MCPサーバー設定付きClaude Code起動スクリプト
 
 ## 概要
 このスクリプトは、Claude Codeを起動する前にMCPサーバーの設定を対話的に行うシェルスクリプトです。既に設定されているMCPサーバーは自動的にスキップされ、重複した設定を防ぎます。現在はSerena MCPに対応しており、簡単に他のMCPサーバーを追加できる拡張可能な設計になっています。
